@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! My name is Garrett and I am constantly learning!
+- 🔭 I’m currently working at Guidehosue in the ES&I Analytics team :)
+- 💬 Ask me about my Surfing Project
+
+
 
 <!--
 **GarrettStirling/GarrettStirling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
